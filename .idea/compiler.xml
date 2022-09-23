@@ -14,6 +14,7 @@
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="setup" options="-parameters" />
+      <module name="spring-test-cloud" options="-parameters" />
     </option>
   </component>
 </project>
